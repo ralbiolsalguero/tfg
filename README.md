@@ -53,7 +53,7 @@ Ve a la carpeta del backend:
 bash
 Copiar
 Editar
-cd C:\Users\Raul\Desktop\proyecto\backend
+cd C:\Users\Raul\Desktop\tfg\backend
 Inicia el servidor:
 
 bash
@@ -74,7 +74,7 @@ Ve a la carpeta del frontend:
 bash
 Copiar
 Editar
-cd C:\Users\Raul\Desktop\proyecto\frontend
+cd C:\Users\Raul\Desktop\tfg\frontend
 Ejecuta el servidor de desarrollo:
 
 bash
