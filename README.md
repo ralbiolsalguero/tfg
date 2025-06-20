@@ -44,3 +44,41 @@ Este proyecto es una aplicación web que permite a **alumnos**, **empresas** y *
 ```bash
 git clone https://github.com/tu-usuario/tu-repo.git
 cd tu-repo
+
+✅ Iniciar el Backend (API en Node.js)
+Abre una terminal
+
+Ve a la carpeta del backend:
+
+bash
+Copiar
+Editar
+cd C:\Users\Raul\Desktop\tfg\backend
+Inicia el servidor:
+
+bash
+Copiar
+Editar
+npx nodemon app.js
+Si no tienes nodemon, puedes usar:
+
+bash
+Copiar
+Editar
+node app.js
+✅ Iniciar el Frontend (React)
+Abre otra terminal nueva
+
+Ve a la carpeta del frontend:
+
+bash
+Copiar
+Editar
+cd C:\Users\Raul\Desktop\tfg\frontend
+Ejecuta el servidor de desarrollo:
+
+bash
+Copiar
+Editar
+npm start
+Esto abrirá automáticamente http://localhost:3000 o http://localhost:3001 en tu navegador.
